@@ -1,0 +1,13 @@
+DEFINED_PHASES=postinst
+DEPEND=app-arch/tar
+DESCRIPTION=Create a backup of your config files in tree format
+EAPI=8
+HOMEPAGE=https://github.com/calendulish/backup-conf
+IUSE=git sudo
+KEYWORDS=~amd64 ~ia64 ~x86 ~arm
+LICENSE=GPL-3
+RDEPEND=sys-devel/gettext sys-apps/util-linux git? ( dev-vcs/git ) sudo? ( app-admin/sudo )
+RESTRICT=binchecks primaryuri
+SLOT=0
+SRC_URI=https://github.com/calendulish/backup-conf/archive/v5.2.2.tar.gz
+_md5_=aa3a582e58d1d3e420e046d24c535660
