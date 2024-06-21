@@ -10,4 +10,4 @@ RDEPEND=sys-devel/gettext sys-apps/util-linux git? ( dev-vcs/git ) sudo? ( app-a
 RESTRICT=binchecks primaryuri
 SLOT=0
 SRC_URI=https://github.com/calendulish/backup-conf/archive/v5.2.2.tar.gz
-_md5_=aa3a582e58d1d3e420e046d24c535660
+_md5_=c8912e5fd5375e3e3901ccbf9476a470
