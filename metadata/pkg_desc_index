@@ -1,7 +1,6 @@
 app-admin/backup-conf 5.2.2-r1: Create a backup of your config files in tree format
-dev-python/python-gettext 5.0-r1: Implementation of Gettext for Python
-dev-python/stlib 2.0.3: Async library that provides features related to Steam client and compatible stuff
+dev-python/stlib 2.1: Async library that provides features related to Steam client and compatible stuff
 dev-python/stlib-plugins 1.2.3: A set of stlib official plugins
 dev-util/steamworks-sdk 1.58: The Steamworks SDK provides a range of features which are designed to help ship your application or game on Steam in an efficient manner.
-games-util/steam-tools-ng 3.2 9999: Some useful tools for use with steam client or compatible programs, websites
+games-util/steam-tools-ng 3.3.1 9999: Some useful tools for use with steam client or compatible programs, websites
 sys-fs/colordf 1.0: Colored and configurable version of df
