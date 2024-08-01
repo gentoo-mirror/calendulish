@@ -1,4 +1,4 @@
-app-admin/backup-conf 5.2.2-r1: Create a backup of your config files in tree format
+app-admin/backup-conf 5.2.3: Create a backup of your config files in tree format
 dev-python/stlib 2.1: Async library that provides features related to Steam client and compatible stuff
 dev-python/stlib-plugins 1.2.3: A set of stlib official plugins
 dev-util/steamworks-sdk 1.58: The Steamworks SDK provides a range of features which are designed to help ship your application or game on Steam in an efficient manner.
